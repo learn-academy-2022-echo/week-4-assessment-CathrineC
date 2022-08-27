@@ -8,7 +8,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 1. What is object-oriented programming? How is it different than functional programming?
 
-Your answer:
+Your answer: Some of the object-oriented programming languages that I have been exposed to are JavaScript and Ruby. Object-oriented programming or OOP are object and method based that is used to group similar things. These collection of things can be accessed through iteration, invocation calls, looping, and allows mutation through its elements. The objects which are made of key:value pairs are identified as the worldy things, real things. Depending on how you want to return the objects, OOP can enclose these objects based on the conditions that you put the objects into and can only be accessed by the method you use. Functional programming, I assume, are making of functions 
 
 Researched answer:
 
