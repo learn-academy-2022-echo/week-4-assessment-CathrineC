@@ -72,14 +72,5 @@ p palindromeWord(palindrome_tester1)
 p palindromeWord(palindrome_tester2)
 p palindromeWord(palindrome_tester3)
 
-class Person
-    def set_name(name)
-      @name = name
-    end
-  
-    def get_name
-      @name
-    end
-  end
 
   
